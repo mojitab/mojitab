@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/mojitab/mojitab/main/assets/avatar.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #38BDF8;" alt="Mojtaba" />
+
 # 👋 Hi there, I'm **Mojtaba**!
 
 <a href="https://git.io/typing-svg">
